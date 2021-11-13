@@ -161,4 +161,94 @@
   .u-section-1 .u-text-1 {
     font-size: 3rem;
   }
+} .u-section-2 {
+  background-image: none;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 532px;
+}
+
+.u-section-2 .u-text-1 {
+  font-size: 1.125rem;
+  margin: 39px auto 0;
+}
+
+.u-section-2 .u-layout-wrap-1 {
+  width: 783px;
+  margin: 39px auto 0;
+}
+
+.u-section-2 .u-image-1 {
+  min-height: 349px;
+  background-image: url("images/ISEECPPromo_Bannerslide1.png");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-2 .u-text-2 {
+  margin: 30px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-layout-wrap-1 {
+    min-height: 400px;
+    margin-top: 180px;
+    margin-bottom: 50px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 504px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    width: 720px;
+    min-height: 132px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 321px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 424px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    width: 540px;
+    min-height: 450px;
+    margin-top: 204px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 241px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 335px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    width: 340px;
+    min-height: 210px;
+    margin-top: 272px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 152px;
+  }
 }

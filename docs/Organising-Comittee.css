@@ -16,7 +16,6 @@
   grid-template-columns: calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px);
   grid-gap: 10px 10px;
   min-height: 1176px;
-  grid-auto-columns: calc(33.3333% - 6.66667px);
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -131,8 +130,8 @@
 .u-section-1 .u-image-6 {
   width: 220px;
   height: 220px;
-  background-image: url("images/bg.jpg");
-  background-position: 50% 50%;
+  background-image: url("images/Sarah.jpg");
+  background-position: 50% 55.52%;
   margin: 0 auto;
 }
 
@@ -194,8 +193,8 @@
 .u-section-1 .u-image-9 {
   width: 220px;
   height: 220px;
-  background-image: url("images/marwah.jpeg");
-  background-position: 50% 90.85%;
+  background-image: url("images/marwah1.jpeg");
+  background-position: 50% 100%;
   margin: 0 auto;
 }
 
@@ -215,7 +214,6 @@
 
   .u-section-1 .u-repeater-1 {
     min-height: 970px;
-    grid-auto-columns: calc(33.333333333333336% - 6.66667px);
   }
 
   .u-section-1 .u-text-2 {
@@ -317,17 +315,12 @@
   .u-section-1 .u-repeater-1 {
     grid-template-columns: calc(50% - 5px) calc(50% - 5px);
     min-height: 1857px;
-    grid-auto-columns: calc(50% - 5.0000025px);
   }
 }
 
 @media (max-width: 767px) {
   .u-section-1 .u-list-1 {
     width: 540px;
-  }
-
-  .u-section-1 .u-repeater-1 {
-    grid-auto-columns: calc(100% - 0px);
   }
 
   .u-section-1 .u-container-layout-1 {
@@ -383,7 +376,6 @@
 
   .u-section-1 .u-repeater-1 {
     grid-template-columns: 100%;
-    grid-auto-columns: 100%;
   }
 }.u-section-2 .u-sheet-1 {
   min-height: 510px;
