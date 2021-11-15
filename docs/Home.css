@@ -181,7 +181,7 @@
 
 .u-section-2 .u-image-1 {
   min-height: 349px;
-  background-image: url("images/ISEECPPromo_Bannerslide1.png");
+  background-image: url("images/ISEECPPromo_Bannerslide21.png");
   background-position: 50% 50%;
 }
 
@@ -195,7 +195,6 @@
 
 @media (max-width: 1199px) {
   .u-section-2 .u-layout-wrap-1 {
-    min-height: 400px;
     margin-top: 180px;
     margin-bottom: 50px;
   }
@@ -208,7 +207,6 @@
 
   .u-section-2 .u-layout-wrap-1 {
     width: 720px;
-    min-height: 132px;
   }
 
   .u-section-2 .u-image-1 {
@@ -223,7 +221,6 @@
 
   .u-section-2 .u-layout-wrap-1 {
     width: 540px;
-    min-height: 450px;
     margin-top: 204px;
   }
 
@@ -244,7 +241,6 @@
 
   .u-section-2 .u-layout-wrap-1 {
     width: 340px;
-    min-height: 210px;
     margin-top: 272px;
   }
 
