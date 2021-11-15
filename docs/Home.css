@@ -180,8 +180,8 @@
 }
 
 .u-section-2 .u-image-1 {
-  min-height: 349px;
-  background-image: url("images/ISEECPPromo_Bannerslide21.png");
+  min-height: 414px;
+  background-image: url("images/ISEECPPromo_Bannerslide1.png");
   background-position: 50% 50%;
 }
 
@@ -190,7 +190,23 @@
 }
 
 .u-section-2 .u-text-2 {
-  margin: 30px auto 60px;
+  background-image: none;
+  font-weight: 700;
+  margin: 229px 139px 0 288px;
+}
+
+.u-section-2 .u-text-3 {
+  margin: 2px auto 60px;
+}
+
+.u-section-2 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-2 .u-btn-2 {
+  background-image: none;
+  padding: 0;
 }
 
 @media (max-width: 1199px) {
@@ -202,7 +218,7 @@
 
 @media (max-width: 991px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 504px;
+    min-height: 499px;
   }
 
   .u-section-2 .u-layout-wrap-1 {
@@ -210,13 +226,18 @@
   }
 
   .u-section-2 .u-image-1 {
-    min-height: 321px;
+    min-height: 381px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: 128px;
+    margin-left: 257px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 424px;
+    min-height: 404px;
   }
 
   .u-section-2 .u-layout-wrap-1 {
@@ -225,18 +246,22 @@
   }
 
   .u-section-2 .u-image-1 {
-    min-height: 241px;
+    min-height: 286px;
   }
 
   .u-section-2 .u-container-layout-1 {
     padding-left: 10px;
     padding-right: 10px;
   }
+
+  .u-section-2 .u-text-2 {
+    margin-left: 187px;
+  }
 }
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 335px;
+    min-height: 298px;
   }
 
   .u-section-2 .u-layout-wrap-1 {
@@ -245,6 +270,11 @@
   }
 
   .u-section-2 .u-image-1 {
-    min-height: 152px;
+    min-height: 180px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: 79px;
+    margin-left: 25px;
   }
 }
