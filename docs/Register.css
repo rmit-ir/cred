@@ -41,6 +41,11 @@
   margin: 18px 62px 0 0;
 }
 
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
 .u-section-1 .u-text-3 {
   font-weight: 700;
   font-size: 1.25rem;
@@ -67,12 +72,12 @@
   margin: 64px 37px 0 20px;
 }
 
-.u-section-1 .u-btn-1 {
+.u-section-1 .u-btn-2 {
   background-image: none;
   padding: 0;
 }
 
-.u-section-1 .u-btn-2 {
+.u-section-1 .u-btn-3 {
   border-style: none;
   font-weight: 700;
   text-transform: uppercase;
@@ -111,7 +116,7 @@
     margin-left: 0;
   }
 
-  .u-section-1 .u-btn-2 {
+  .u-section-1 .u-btn-3 {
     margin-left: 0;
   }
 }
