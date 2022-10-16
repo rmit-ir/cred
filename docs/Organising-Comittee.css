@@ -25,7 +25,7 @@
 .u-section-1 .u-image-1 {
   width: 220px;
   height: 220px;
-  background-image: url("images/leilatavakoli_21.jpeg");
+  background-image: url("images/Leila_col.jpg");
   background-position: 50% 3.99%;
   margin: 0 auto;
 }
@@ -67,7 +67,7 @@
 .u-section-1 .u-image-3 {
   width: 220px;
   height: 220px;
-  background-image: url("images/Sachin_21.jpeg");
+  background-image: url("images/profile_pr.jpeg");
   background-position: 50% 0%;
   margin: 0 auto;
 }
@@ -88,7 +88,7 @@
 .u-section-1 .u-image-4 {
   width: 220px;
   height: 220px;
-  background-image: url("images/ElisaMena31.png");
+  background-image: url("images/profile_pr.jpeg");
   background-position: 50% 32.21%;
   margin: 0 auto;
 }
@@ -106,12 +106,13 @@
   padding: 30px 29px;
 }
 
-.u-section-1 .u-image-5 {
+.u-section-2 .u-image-5 {
   width: 220px;
   height: 220px;
-  background-image: url("images/shohreh2.jpeg");
+  background-image: url("images/Shohreh_col.jpg");
   background-position: 50% 50%;
   margin: 0 auto;
+
 }
 
 .u-section-1 .u-text-10 {
@@ -151,7 +152,7 @@
 .u-section-1 .u-image-7 {
   width: 220px;
   height: 220px;
-  background-image: url("images/luke.jpg");
+  background-image: url("images/profile_pr.jpeg");
   background-position: 50% 0%;
   margin: 0 auto;
 }
@@ -172,7 +173,7 @@
 .u-section-1 .u-image-8 {
   width: 220px;
   height: 220px;
-  background-image: url("images/mohammad.jpeg");
+  background-image: url("images/profile_pr.jpeg");
   background-position: 50% 50%;
   margin: 0 auto;
 }
@@ -193,7 +194,7 @@
 .u-section-1 .u-image-9 {
   width: 220px;
   height: 220px;
-  background-image: url("images/marwah1.jpeg");
+  background-image: url("images/marwah_col.jpeg");
   background-position: 50% 100%;
   margin: 0 auto;
 }
@@ -404,10 +405,20 @@
 .u-section-2 .u-image-1 {
   width: 220px;
   height: 220px;
-  background-image: url("images/elham.jpeg");
+  background-image: url("images/Elham_col.jpg");
   background-position: 50% 0%;
   margin: 0 auto;
 }
+
+.u-section-2 .u-image-4 {
+  width: 220px;
+  height: 220px;
+  background-image: url("images/ElisaMena31.png");
+  background-position: 50% 0%;
+  margin: 0 auto;
+}
+
+
 
 .u-section-2 .u-text-2 {
   margin: 20px 0 0;
@@ -424,7 +435,7 @@
 .u-section-2 .u-image-2 {
   width: 220px;
   height: 220px;
-  background-image: url("images/damiano.jpeg");
+  background-image: url("images/damiano_col.jpg");
   background-position: 50% 0%;
   margin: 0 auto;
 }
