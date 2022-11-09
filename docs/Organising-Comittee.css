@@ -157,6 +157,21 @@
   margin: 0 auto;
 }
 
+.u-section-1 .u-image-10 {
+  width: 220px;
+  height: 220px;
+  background-image: url("images/Ruimin.JPG");
+  background-position: 50% 0%;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-image-11 {
+  width: 220px;
+  height: 220px;
+  background-image: url("images/Kaixin.jpg");
+  background-position: 50% 0%;
+  margin: 0 auto;
+}
 .u-section-1 .u-text-14 {
   margin: 20px 1px 0;
 }
